@@ -4,3 +4,4 @@ models-tutorial
 models
 __pycache__
 df_submission.csv
+catboost_info
